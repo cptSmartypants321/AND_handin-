@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "74064791581",
+    "project_id": "andhandin-8719b",
+    "storage_bucket": "andhandin-8719b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74064791581:android:4beaf512771f4b30341ef4",
+        "android_client_info": {
+          "package_name": "com.example.and_handin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74064791581-bri6t1cp569ufi4tnu7ikeh5tlus1sja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.and_handin",
+            "certificate_hash": "eb74dc93d0d626dab6b1e7f8c76f4c7264743fde"
+          }
+        },
+        {
+          "client_id": "74064791581-gkh4ekjsi9hkhddh4copep88ga62pvh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnxZK1A_rXrAQZC1EymtICU_URmIuU78A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74064791581-gkh4ekjsi9hkhddh4copep88ga62pvh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
